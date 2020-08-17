@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f563ec-4101-4d1d-bef2-3feadbd8445b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docker-images/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker-images/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-images/quick-start/rule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-images/quick-start/rule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-images/quick-start/schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-images/quick-start/schema.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-images/quick-start/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-images/quick-start/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-images/quick-start/wrapper.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker-images/quick-start/wrapper.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actiontech/dble/config/Versions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actiontech/dble/config/Versions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/myid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/myid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/version.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/2.19.11.0/rel" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLvAQstceShrIsV3eFTXmJmYi1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker-images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f563ec-4101-4d1d-bef2-3feadbd8445b" name="Default Changelist" comment="" />
+      <created>1596010043707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596010043707</updated>
+      <workItem from="1596010045593" duration="30558000" />
+      <workItem from="1596768497383" duration="769000" />
+      <workItem from="1596847094078" duration="1330000" />
+      <workItem from="1597109318150" duration="1123000" />
+      <workItem from="1597136467551" duration="8920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
